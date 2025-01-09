@@ -5,7 +5,7 @@ I am dedicated to creating clean, intuitive, and responsive user interfaces and 
 Additionally, I'm excited to expand my skills.
 
 🚀 Skills
- - Frontend Development: Android Studio XML
+ - Frontend Development: Android Studio XML, Flutter Dart
  - Backend Development: Java Android and/or Kotlin, Dart
  - Database: MySql, SQL, HFSQL Database, Firebase Database
  - UI/UX Design Principles
