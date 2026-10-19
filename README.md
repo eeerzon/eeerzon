@@ -16,6 +16,14 @@ I'm a mobile developer focused on **Android (Java/Kotlin)** and **cross-platform
 | Tools & Workflow | Git, GitHub, GitLab, Agile methodologies |
 | Design | UI/UX design principles |
 
+## 🚀 Published App
+
+<a href="https://play.google.com/store/apps/details?id=com.kreen.app&hl=id">
+  <img alt="Get it on Google Play" src="https://img.shields.io/badge/Google%20Play-Kreen%20App-3DDC84?logo=googleplay&logoColor=white">
+</a>
+
+**[Kreen App](https://play.google.com/store/apps/details?id=com.kreen.app&hl=id)** is a digital event ticketing and voting platform that is secure and transparent, used at national and international events, especially pageants. The app is live on Google Play, published by PT. Aplikasi Solusi Data Indonesia.
+
 ## 📂 Featured Projects
 
 | Project | Stack | Description |
